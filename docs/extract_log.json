@@ -1,0 +1,26 @@
+{
+ "cutter": "KSJ N03 20260101 02 (Aomori), 2303 polygons dissolved",
+ "area_crs": 6678,
+ "files": {
+  "veg2024bk2a.gpkg": {
+   "read_in_bbox": 0,
+   "intersect": 0,
+   "wholly_inside": 0,
+   "crossing": 0,
+   "crossing_kept_after_clip": 0,
+   "crossing_dropped_no_area": 0,
+   "kept": 0
+  },
+  "veg2024bk2b.gpkg": {
+   "read_in_bbox": 195440,
+   "intersect": 147302,
+   "wholly_inside": 145015,
+   "crossing": 2287,
+   "crossing_kept_after_clip": 2287,
+   "crossing_dropped_no_area": 0,
+   "kept": 147302
+  }
+ },
+ "rows": 147302,
+ "invalid_after": 0
+}
