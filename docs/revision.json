@@ -1,0 +1,22 @@
+{
+ "repo": "yuiseki/aomori-vegetation-2024",
+ "revision": "fe7ec75ab736d362c3ee46b6e92c9e6dee754ea4",
+ "sha256": {
+  "README.md": "8393431287ddc103a9efc3570c051d61bcea73bb306541973192679cd2426287",
+  "LICENSE": "faff446b99272156d262266b5158fced6a5b00a822ff8d452465d2f730f6b6e6",
+  "provenance.yaml": "6bc051ec2af8d2e6f689709e057e4b4268da15eaf2b0b34da2a9aa79374fc43f",
+  "parquet/vegetation_aomori.parquet": "0b3535acc33a463e21ad7b1a7fa3e5914eee670fd1b3666964b8cfd382c51111",
+  "raw/20261028/MANIFEST.json": "0306f6f8bc68e48354f147ef92610ddbcc5880ba1c9c07c4886e79600f2a9751",
+  "raw/20261028/ckan_record.json": "a2a8016a2e29ff0cad5f22cfb2713e4a1d9ba1bac59eff23ae5b876f03bac891",
+  "docs/aomori_profile.md": "0999ff251572bca14c7efbe1d065895398c2107372c3f7f35e423796baf5dc8b",
+  "docs/aomori_profile.json": "f5219de3a791c8073e6765eb8dceb36b84d85d23205311c6e0c5976e4e04f274",
+  "docs/raw_profile.md": "874e770c062c06b0aebf414a807cd46af604d4569f7f7933bef207d926b2294e",
+  "docs/raw_profile.json": "f85d132e7100dbd5d85898a586ee6f12bcec112542a1b9ec79c7556f37f3d029",
+  "docs/extract_log.json": "99816443da36c8676f8791504b9e1a1c926cdc2ca4f6eb28208a2c72b5c06e52",
+  "docs/legend_aomori.tsv": "9a7b2bc6108baf973cf6535a8968c956f0a010ff857a5d64cdb6029c637463ca",
+  "docs/legend_matches_aomori.tsv": "a9cdf00ebc6f0ab1202ad21f4ed3c547f7711467a59c2180ca04edc2904614a1",
+  "docs/legend_all_source_raw.tsv": "a37ae97249b8f1908fe9169db34456d84ddc7f513ea579a090bc15f13d7d9dc4",
+  "docs/legend_matches_source_raw.tsv": "d2a4e151259a4b914af6ba5f8c62b5e06800c271ae349fde1229c8b962b7646f",
+  "docs/verify_local.json": "b3b806d4c01c650115df902ace778df93e86c655de967427397c84d89bba99dc"
+ }
+}
